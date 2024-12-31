@@ -398,3 +398,46 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+#other files
+.env
+
+# Maven and Gradle build directories
+target/
+build/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# VS Code settings
+.vscode/
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+*.jar
+
+# Logs
+*.log
+
+# Docker files
+docker-compose.override.yml
+*.bak
+*.swp
+
+# Environment variables
+.env
+
+# Other temporary files
+*.tmp
+
